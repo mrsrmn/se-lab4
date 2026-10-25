@@ -1,0 +1,6 @@
+# Test: ALL mode fires both stores
+# Setup: 1 torpedo in each store, failure rate 0
+
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
